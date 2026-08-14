@@ -1,0 +1,16 @@
+$ curl -s https://api.github.com/repos/Ruturaj147990/SimpleInterestCalulator/pulls/1
+
+{
+"number": 1,
+"state": "closed",
+"head": {
+"repo": {
+"full_name": "Ruturaj147990/SimpleInterestCalulator"
+}
+},
+"base": {
+"repo": {
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
+}
+}
