@@ -1,0 +1,11 @@
+Command:
+curl -s https://api.github.com/repos/Ruturaj147990/SimpleInterestCalulator
+Terminal output:
+{
+"name": "SimpleInterestCalulator",
+"full_name": "Ruturaj147990/SimpleInterestCalulator",
+"fork": true,
+"parent": {
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
+}
